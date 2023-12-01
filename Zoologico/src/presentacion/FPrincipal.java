@@ -1,4 +1,4 @@
-package FPrincipal;
+package presentacion;
 
 import java.awt.Color;
 import java.awt.Dimension;
